@@ -11,7 +11,7 @@ Edit *proxy.sh* and set
 * HTTPS_PROXY_HOST
 * HTTPS_PROXY_PORT
 
-If not exist user and password, set empty.
+> If not exist user and password, set empty.
 
 ### Start proxy:
 ```sh
