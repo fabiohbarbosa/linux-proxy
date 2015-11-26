@@ -22,3 +22,8 @@ Edit *proxy.sh* and set
 ```sh
 ./proxy stop
 ```
+
+### Add in linux path:
+```sh
+sudo ln -sf proxy.sh /usr/local/bin/proxy.sh
+```
