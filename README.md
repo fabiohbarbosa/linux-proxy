@@ -25,5 +25,5 @@ Edit *proxy.sh* and set
 
 ### Add in linux path:
 ```sh
-sudo ln -sf proxy.sh /usr/local/bin/proxy
+sudo ln -sf /opt/proxy.sh /usr/local/bin/proxy
 ```
